@@ -1,15 +1,15 @@
 {
   "manifest_version": 2,
   "name": "TabSwitch",
-  "description": "Tab switcher/toggler - switching to previous active tab",
+  "description": "Tab switcher/swapper/toggler - switching to previous active tab",
   "version": "0.1",
   "permissions": [
     "tabs"
   ],
   "icons": {
-    "16": "img/edit_16.png",
-    "48": "img/edit_32.png",
-    "128": "img/edit.png"
+    "16": "img/swap_16.png",
+    "48": "img/swap_48.png",
+    "128": "img/swap_128.png"
   },
   "background": {
     "scripts": [
