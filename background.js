@@ -10,7 +10,7 @@ function keyboardCommand(cmd) {
         return;
     }
 
-    chrome.tabs.query({ active: true }, tabsResult => {
+    chrome.tabs.query({ active: true, currentWindow: true }, tabsResult => {
 
         if (tabsResult.length != 1 || !browserWindows[tabsResult[0].windowId]) {
             return;
