@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+  "name": "TabSwitch",
+  "description": "Tab switcher/toggler - switching to previous active tab",
+  "version": "0.1",
+  "permissions": [
+    "tabs"
+  ],
+  "icons": {
+    "16": "img/edit_16.png",
+    "48": "img/edit_32.png",
+    "128": "img/edit.png"
+  },
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "commands": {
+    "PreviousTab": {
+      "suggested_key": {
+        "default": "Ctrl+Q",
+        "mac": "Command+Q"
+      },
+      "description": "Switch to previous active tab"
+    }
+  }
+}
