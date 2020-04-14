@@ -11,4 +11,4 @@ Go to:
    ![image](https://user-images.githubusercontent.com/8268674/79165405-faa9dc80-7dda-11ea-91ab-e189e16de816.png)
  * Keyboard shortcuts
    
-   ![image](https://user-images.githubusercontent.com/8268674/79165586-54120b80-7ddb-11ea-9270-0601e62a712b.png)
+   ![image](https://user-images.githubusercontent.com/8268674/79226309-0f778600-7e56-11ea-830f-837f5c5188c2.png)
