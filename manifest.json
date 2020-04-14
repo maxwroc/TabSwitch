@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "TabSwitch",
-  "description": "Tab switcher/swapper/toggler - switching to previously actived tab",
+  "description": "Tab switcher/swapper/toggler - switching to previous active tab",
   "version": "0.1",
   "permissions": [
     "tabs"
@@ -22,7 +22,7 @@
         "default": "Ctrl+Q",
         "mac": "Command+Q"
       },
-      "description": "Switch to previously actived tab"
+      "description": "Switch to previous active tab"
     }
   }
 }
