@@ -1,6 +1,10 @@
 # TabSwitch - Browser extension
 Adds keyboard shortcut for switching to previous active tab. By default it is Ctrl+Q.
 
+## Installation
+
+Go to [Chrome Store](https://chrome.google.com/webstore/detail/tabswitch/hkkjnapbpnfjjfgplecclaokkgiekeej) and click "Add" button.
+
 ## Assigning custom keyboard shortcut - in Chrome
 Go to:
  * Menu
